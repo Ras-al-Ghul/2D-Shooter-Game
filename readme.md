@@ -29,11 +29,11 @@ The keyboard controls for the game are:
 
 The mouse controls for the game are:
 
- 					Left Button - Shoot
+ 							Left Button - Shoot
 	Hold Left Button and move Upwards/Downwards - Increase/Decrease shooting power
 	     Hold Left Button and move Mouse around - Rotate cannon Upwards/Downwards
 	      Hold Right Button and move Left/Right - Pan scene Left/Right
-			      Scroll Button up/down - Zoom In/Out
+			      	Scroll Button up/down - Zoom In/Out
 
 The keyboard will still need to be used to move the cannon upwards and downwards.
 
@@ -46,6 +46,8 @@ The keyboard will still need to be used to move the cannon upwards and downwards
 Enter your name.
 Choose between two **game modes** - `Land`/`Underwater`
 The underwater mode gives a kind of slow mo effect with a bit of different physics used and of course a different scene.
+
+If you get a **black screen**, then try running `./game` till you get a game window. It works.
 
 The game has **three levels**.
 
