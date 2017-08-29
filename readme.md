@@ -1,4 +1,4 @@
-#2D-Shooter-Game
+# 2D-Shooter-Game
 
 This game uses **OpenGl2** and **freeglut**.
 freeglut may need to be installed - possibly this should suffice:
@@ -9,7 +9,7 @@ For the audio, **SFML** library is used. Install using:
 
 `sudo apt-get install libsfml-dev`
 
-####Keyboard Controls
+#### Keyboard Controls
 
 The keyboard controls for the game are:
 
@@ -25,7 +25,7 @@ The keyboard controls for the game are:
 	Right - Pan scene Right
 	 Left - Pan scene Left
 
-####Mouse Controls
+#### Mouse Controls
 
 The mouse controls for the game are:
 
@@ -37,7 +37,7 @@ The mouse controls for the game are:
 
 The keyboard will still need to be used to move the cannon upwards and downwards.
 
-####Starting the game
+#### Starting the game
 
 - `cd game`
 - `make`
